@@ -5,11 +5,23 @@
 
 # Allgemeines
 
-@TODO Pop-Ups
-@TODO Einstellungen
+Um SOGo korrekt verwenden zu können ist es wichtig JavaScript und Pop-Ups für die entsprechende Domain zuzulassen. 
 
+## Einstellungen
 
+Alle generellen Einstellungen für SOGo und seine Module finden Sie unter "Einstellungen" am oberen Bildschirmrand.
 
+Hier finden Sie auch die Möglichkeit Ihr "Standard Modul" (1) zu definieren, welches nach dem Anmelden angezeigt werden soll.
+
+@TODO Screenshot
+
+Unter dem Reiter "Kalender" (1) können Sie denjenigen "Standardkalender" (2) wählen, welcher verwendet wird wenn Sie keinen anderen durch markieren gewählt haben.
+
+@TODO Screenshot
+
+Ihre Mail-Signatur können Sie unter "IMAP-Konten" (1) nach einem Klick auf "(Zum Erstellen klicken)" (2) verfassen. 
+
+@TODO Screenshot
 
 
 
