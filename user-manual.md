@@ -41,7 +41,7 @@ Monatsansicht
 
 ### Anlegen eines Termines
 
-Um einen neuen Termin anzulegen klicken Sie zuerst auf "Neuer Termin" (1) oder wählen Sie durch klicken und halten in der Tages/Mehrspaltigen Tagesansicht/Wochenansicht direkt das entsprechende Zeitfenster (2).
+Um einen neuen Termin anzulegen wählen Sie den entsprechenden Kalender in der Liste (1) am linken Bildschirmrand aus. Klicken Sie nun auf "Neuer Termin" (2) oder wählen Sie durch klicken und halten in der Tages/Mehrspaltigen Tagesansicht/Wochenansicht direkt das entsprechende Zeitfenster (3).
 
 ![](img/screenshot_009.png)
 
@@ -53,10 +53,11 @@ Nun befüllen Sie bitte die einzelen Eingabefelder mit den entsprechenden Eingab
 	<dt>Kategorie</dt> 
 	<dd>Kategorien können in den Einstellungen eine farbige Markierung zugeteilt werden und helfen Ihnen damit auf den ersten Blick die Art des Termins zu erfassen.</dd>
 
-	<dt>Kalender**</dt> 
+	<dt>Kalender</dt> 
 	<dd>Bezeichnet den Kalender in den das Ereignis eingetragen werden soll.</dd>
 
-	<dt>Priorität</dt> ???
+	<dt>Priorität</dt>
+	<dd>Textmarke für die Wichtigkeit des Termines ohne weitere visuelle Erkennbarkeit.</dd>
 	
 	<dt>Ganztägiger Termin</dt> 
 	<dd>Ganztägige Termine haben keine Start- und Endzeit und werden am oberen Rand der Tagesspalte angezeigt.</dd>
@@ -77,7 +78,7 @@ Nun befüllen Sie bitte die einzelen Eingabefelder mit den entsprechenden Eingab
 	<dd>siehe [Besprechung planen](#besprechung-planen)</dd>
 	
 	<dt>Vertraulichkeit</dt>
-	<dd>SOGo unterscheidet drei Arten von Terminen: <i>Öffentliche</i> Termine sind für alle Benutzer mit einer Freigabe auf Ihren Kalender sichtbar. <i>Vertrauliche</i> Termine werden "geschwärzt" dargestellt, somit sind nur Datum und Uhrzeit ersichtlich. Ereignise die als <i>privat</i> gekennzeichnet sind, sind nur für Sie sichtbar.</dd>
+	<dd>SOGo unterscheidet drei Arten von Terminen: <i>Öffentliche</i> und <i>Vertrauliche</i> Termine werden für alle authorisierten Benutzer "geschwärzt" dargestellt, somit sind nur Datum und Uhrzeit ersichtlich. Ereignise die als <i>privat</i> gekennzeichnet sind, sind nur für Sie sichtbar. Diese Grundeinstellungen können unter Benutzerrechte individuell angepasst werden.</dd>
 </dl>
 
 
@@ -93,7 +94,7 @@ Nach dem Klick auf "OK" ist die Teilnehmerplanung abgeschlossen:
 
 Um den Termin endgültig zu speichern, ist "Speichern und Schließen" anzuwählen.
 
-Die eingeladenen Teilnehmer erhalten automatisch eine Einladungs-Mail. Sollten es interne Benutzer der Universität sein, werden die Terminanfragen automatisch in deren Kalender eingetragen! Beim nächsten Aufruf von SOGo hat er dann die Möglichkeit, zuzustimmen oder abzulehnen. Dieses ist auch mit Thunderbird Lightning und Apple iCal möglich.
+Die eingeladenen Teilnehmer erhalten automatisch eine Einladungs-Mail. Sollten es interne Benutzer der Universität sein, werden die Terminanfragen automatisch in deren Kalender eingetragen! Beim nächsten Aufruf von SOGo hat er dann die Möglichkeit, zuzustimmen oder abzulehnen. Dieses ist auch mit Thunderbird Lightning und Apple iCal möglich. Folgend ein Beispiel für solche eine Einladung:
 
 ![](img/screenshot_002.png)
 
@@ -120,6 +121,7 @@ Nun suchen Sie über das Eingabefeld (1) den entsprechenden Benutzer und öffnen
 
 ![](img/screenshot_016.png)
 
+Die angezeigten Informationen eines abonnierten Kalenders sind dabei von den erteilten Rechten des Benutzers abhängig. Im obigen Beispiel sehen Sie zum Beispiel, dass öffentliche Termine alle Informationen enthalten, vertrauliche hingegen nur Datum und Uhrzeit.
 
 
 ### Benutzerrechte ###
@@ -191,7 +193,7 @@ Im sich nun öffnenden Fenster können Sie Ihre entsprechenden Angaben vornehmen
 	<dd>Start Datum/Uhrzeit dieser Aufgabe.</dd>
 
 	<dt>Fällig</dt>
-	<dd>End Datum/Uhrzeit dieser Aufgabe.</dd>
+	<dd>End Datum/Uhrzeit bis zu welcher diese Aufgabe erledigt sein sollte.</dd>
 
 	<dt>Status</dt>
 	<dd>z.B. "Abgeschlossen am" 2014-09-03 zu 80%.</dd>
