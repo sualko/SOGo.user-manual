@@ -36,13 +36,15 @@ Ihre Mail-Signatur können Sie unter "IMAP-Konten" (1) nach einem Klick auf "(Zu
 
 ### Ansichtsarten ###
 
-SOGo bietet zur Zeit folgende Ansichtsarten:
+SOGo bietet zur Zeit folgende Ansichtsarten, bei welchen die angezeigten Kalender über die linke Kalenderliste an- und abgewählt werden können:
 
 Tagesansicht
 ![](img/screenshot_005.png)
 
 Mehrspaltige Tagesansicht
 ![](img/screenshot_006.png)
+
+![](img/screenshot_037.png)
 
 Wochenansicht
 ![](img/screenshot_008.png)
