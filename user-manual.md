@@ -11,17 +11,17 @@ Um SOGo korrekt verwenden zu können ist es wichtig JavaScript und Pop-Ups für 
 
 Alle generellen Einstellungen für SOGo und seine Module finden Sie unter "Einstellungen" am oberen Bildschirmrand.
 
-Hier finden Sie auch die Möglichkeit Ihr "Standard Modul" (1) zu definieren, welches nach dem Anmelden angezeigt werden soll.
+Hier finden Sie auch die Möglichkeit Ihr "Standard Modul" zu definieren, welches nach dem Anmelden angezeigt werden soll.
 
-@TODO Screenshot
+![](img/screenshot_038.png)
 
 Unter dem Reiter "Kalender" (1) können Sie denjenigen "Standardkalender" (2) wählen, welcher verwendet wird wenn Sie keinen anderen durch markieren gewählt haben.
 
-@TODO Screenshot
+![](img/screenshot_039.png)
 
 Ihre Mail-Signatur können Sie unter "IMAP-Konten" (1) nach einem Klick auf "(Zum Erstellen klicken)" (2) verfassen. 
 
-@TODO Screenshot
+![](img/screenshot_040.png)
 
 
 
