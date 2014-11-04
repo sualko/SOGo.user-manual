@@ -7,6 +7,8 @@
 
 Um SOGo korrekt verwenden zu können, ist es wichtig, JavaScript und Pop-Ups für die entsprechende Domain zuzulassen. 
 
+Desweiteren sind ggf. nicht alle Optionen in Ihrer SOGo Installationen aktiviert und damit verfügbar.
+
 ## Einstellungen
 
 Alle generellen Einstellungen für SOGo und seine Module finden Sie unter "Einstellungen" am oberen Bildschirmrand.
@@ -19,7 +21,7 @@ Unter dem Reiter "Kalender" (1) können Sie denjenigen "Standardkalender" (2) w�
 
 ![](img/screenshot_039.png)
 
-Ihre Mail-Signatur können Sie unter "IMAP-Konten" (1) nach einem Klick auf "(Zum Erstellen klicken)" (2) verfassen. 
+Ihre Mail-Signatur können Sie unter "IMAP-Konten" (1) nach einem Klick auf "(Zum Erstellen klicken)" (2) verfassen. Um die Änderung zu speichern schließen Sie das Fenster mit einem Klick auf "OK" und "Speichern und Schließen".
 
 ![](img/screenshot_040.png)
 
@@ -55,7 +57,7 @@ Monatsansicht
 
 ### Anlegen eines Termines
 
-Um einen neuen Termin anzulegen wählen Sie den entsprechenden Kalender in der Liste (1) am linken Bildschirmrand aus. Klicken Sie nun auf "Neuer Termin" (2) oder wählen Sie durch Klicken und Halten in der Tages/Mehrspaltigen Tagesansicht/Wochenansicht direkt das entsprechende Zeitfenster (3).
+Um einen neuen Termin anzulegen wählen Sie den entsprechenden Kalender in der Liste (1) am linken Bildschirmrand aus. Klicken Sie nun auf "Neuer Termin" (2) oder wählen Sie durch Klicken und Halten in der Tages/Mehrspaltigen Tagesansicht/Wochenansicht direkt das entsprechende Zeitfenster.
 
 ![](img/screenshot_009.png)
 
@@ -123,6 +125,30 @@ Um einen neuen Kalender anzulegen, klicken Sie bitte auf das erste kleine Kalend
 
 Nach "OK" erscheint Ihr neuer Kalender.
 
+
+### Benutzerrechte ###
+Um einen Kalender anderen Benutzern oder der Allgemeinheit freizugeben, klicken Sie mit der rechten Maustaste auf den Kalendernamen. Wählen Sie hier "Benutzerrechte...".
+
+![](img/screenshot_017.png)
+
+Wie Sie sehen können ist hier standardmäßig eine Freigabe für "alle authentifizierten Benutzer" eingetragen. Diese Freigabe wird benötigt, damit alle SOGo-Benutzer Ihre Frei-/Belegt-Zeiten einsehen können.
+
+Um weiteren Personen erweiterte Zugriffsrechte zu vergeben, klicken Sie bitte auf (1). 
+
+![](img/screenshot_018.png)
+
+In dem sich öffnenden Fenster können Sie durch Eingabe (1) einer E-Mail-Adresse und dem anschließenden Klick auf "Hinzufügen" (2) Personen eine Freigabe einräumen.
+
+![](img/screenshot_019.png)
+
+Durch einen Doppelklick auf den entsprechenden Kontakt (1) können Sie nun die Sichtbarkeiten für die verschiedenen Vertraulichkeitsstufen einrichten und Freigaben für das Löschen und Ändern von Einträgen vergeben. Damit der Benutzer Ihren Kalender nicht extra abonnieren muss, empfiehlt es sich, die Option "Für den Benutzer abonnieren" (2) auszuwählen.
+
+![](img/screenshot_020.png)
+
+![](img/screenshot_021.png)
+
+
+
 ### Abonnieren eines freigegebenen Kalenders ###
 
 Klicken Sie dazu oberhalb Ihrer Kalenderliste auf (1).
@@ -159,6 +185,9 @@ Durch einen Doppelklick auf den entsprechenden Kontakt (1) können Sie nun die S
 
 ![](img/screenshot_021.png)
 
+
+
+
 ### Kalendereinstellungen
 Klicken Sie mit der rechten Maustaste auf den entsprechenden Kalender und wählen Sie in der erscheinenden Liste "Einstellungen" aus.
 
@@ -191,7 +220,7 @@ Standardmäßig wird die aktuelle Ansicht zum Druck vorgeschlagen. Durch die Pfe
 
 
 ## Aufgaben
-Den Ereignis- (1) und Aufgabenbereich (2) können Sie über den Pfeil (3) am rechten Bildschirmrand ein- und ausblenden.
+Den Ereignis- (1) und Aufgabenbereich (2) können Sie über den Pfeil (3) am rechten Bildschirmrand ein- und ausblenden und über die Trennlinie (4) in der Höhe anpassen.
 
 ![](img/screenshot_027.png)
 
