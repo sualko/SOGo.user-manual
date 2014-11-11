@@ -57,7 +57,7 @@ Monatsansicht
 
 ### Anlegen eines Termines
 
-Um einen neuen Termin anzulegen wählen Sie den entsprechenden Kalender in der Liste (1) am linken Bildschirmrand aus. Klicken Sie nun auf "Neuer Termin" (2) oder wählen Sie durch Klicken und Halten in der Tages/Mehrspaltigen Tagesansicht/Wochenansicht direkt das entsprechende Zeitfenster.
+Um einen neuen Termin anzulegen wählen Sie den entsprechenden Kalender in der Liste (1) am linken Bildschirmrand aus. Klicken Sie nun auf "Neuer Termin" (2) oder wählen Sie durch Klicken, Halten und Ziehen (3) in der Tages/Mehrspaltigen Tagesansicht/Wochenansicht direkt das entsprechende Zeitfenster.
 
 ![](img/screenshot_009.png)
 
