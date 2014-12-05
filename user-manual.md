@@ -1,8 +1,3 @@
-# Inhaltsverzeichnis
-1. [Kalender](#kalender)
-2. [Aufgaben](#aufgaben)
-3. [Adressbuch](#adressbuch)
-
 # Allgemeines
 
 Um SOGo korrekt verwenden zu können, ist es wichtig, JavaScript und Pop-Ups für die entsprechende Domain zuzulassen. 
