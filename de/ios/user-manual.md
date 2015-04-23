@@ -42,7 +42,7 @@ Server für eintreffende E-Mails:
 
 <dl>
 	<dt>Hostname</dt>
-	<dd>imap.1und1.de</dd>
+	<dd>{IMAP_HOST}</dd>
 	<dt>Benutzername</dt>
 	<dd>Meist <i>vorname.nachname</i></dd>
 	<dt>Kennwort</dt>
@@ -53,7 +53,7 @@ Server für ausgehende E-Mails:
 
 <dl>
 	<dt>Hostname</dt>
-	<dd>smtp.uni-konstanz.de</dd>
+	<dd>{SMTP_HOST}</dd>
 	<dt>Benutzername</dt>
 	<dd>Meist <i>vorname.nachname</i></dd>
 	<dt>Kennwort</dt>
@@ -87,7 +87,7 @@ Tragen Sie die entsprechenden Einstellungen (1) ein und fahren Sie fort mit **We
 
 <dl>
 	<dt>Server</dt>
-	<dd>sogo.uni-konstanz.de</dd>
+	<dd>{SOGO_URL}</dd>
 	<dt>Benutzername</dt>
 	<dd>Meist <i>vorname.nachname</i></dd>
 	<dt>Kennwort</dt>
@@ -124,7 +124,7 @@ Tragen Sie die entsprechenden Einstellungen (1) ein und beenden Sie die Konfigur
 
 <dl>
 	<dt>Server</dt>
-	<dd>sogo.uni-konstanz.de</dd>
+	<dd>{SOGO_URL}</dd>
 	<dt>Benutzername</dt>
 	<dd>Meist <i>vorname.nachname</i></dd>
 	<dt>Kennwort</dt>

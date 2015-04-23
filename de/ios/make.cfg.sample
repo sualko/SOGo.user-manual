@@ -1,0 +1,9 @@
+INPUT=user-manual.md
+OUTPUT=user-manual
+IMG_SRC=
+IMG_STYLE=
+HREF=
+HTML_FOOTER=
+IMAP_HOST=
+SMTP_HOST=
+SOGO_URL=
