@@ -4,10 +4,17 @@
 
 # create and clean build directory
 mkdir -p build/
-rm build/*
+rm -r build/*
+
+# copy dependencies
+cp -R img/ build/
+cp github-pandoc.css build/
 
 # create pdf -s --toc
-pandoc $INPUT -f markdown_github -o build/$OUTPUT.pdf  -c github-pandoc.css
+pandoc $INPUT -f markdown_github -o build/$OUTPUT.pdf -s --toc
+
+# create standalone html
+pandoc $INPUT -f markdown_github -t html -o build/$OUTPUT-standalone.html -s --toc -c github-pandoc.css
 
 # create html
 pandoc $INPUT -f markdown_github -t html -o build/$OUTPUT.html -s --toc
