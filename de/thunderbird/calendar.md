@@ -10,7 +10,7 @@ Nun befinden Sie sich in der Kalenderansicht.
 
 ![KalenderAnsicht](img-calendar/KalenderAnsicht.jpg)
 
-Öffnen Sie nun die SOGo-Weboberfläche, wählen Sie dort die Lasche "Kalenderliste" (1), klicken mit der rechten Maustaste über den Kalendernamen (2), den Sie in Lightning einfügen möchten. Wählen Sie nun "Einstellungen" (3) aus.
+Öffnen Sie nun die SOGo-Weboberfläche, wählen Sie dort den Bereich "Kalender" (1), klicken mit der rechten Maustaste über den Kalendernamen (2), den Sie in Lightning einfügen möchten. Wählen Sie nun "Einstellungen" (3) aus.
 
 ![SogoKalenderEinrichten](img-calendar/SogoKalenderEinrichten.jpg)
 
