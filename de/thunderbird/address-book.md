@@ -83,7 +83,7 @@ Um die Adress-Autovervollständigung zu aktivieren wählen Sie "Extras - Einstel
 
 ![GlobalRemote](img/GlobalRemote.jpg)
 
-Klicken Sie hier "Verfassen"(1) und anschließend "Adressieren"(2). Danach wählen Sie Uni Konstanz als LDAP- Verzeichnisserver(3) aus und bestätigen Ihre Eingaben mit "OK".
+Klicken Sie hier "Verfassen" (1) und anschließend "Adressieren" (2). Danach wählen Sie Uni Konstanz als LDAP- Verzeichnisserver (3) aus und bestätigen Ihre Eingaben mit "OK".
 
 ![GlobalRemoteEinstellungen](img/GlobalRemoteEinstellungen.jpg)
 
