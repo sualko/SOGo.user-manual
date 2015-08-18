@@ -1,8 +1,10 @@
 # Adressbuch
 
-Um mit Thunderbird auch SOGo-Adressbücher nutzen zu können, benötigen Sie die Erweiterung SOGo Connector.
+Um mit Thunderbird auch SOGo-Adressbücher nutzen zu können, benötigen Sie die Erweiterungen SOGo Connector und Lightning. Ab der Version 38.0.1 von Thunderbird ist das Lightning-Plugin automatisch integriert.
 
 ## Installation SOGo Connector
+
+Für Thunderbird Versionen &lt; 38.0.1 installieren Sie bitte die Erweiterung Lightning bevor Sie fortfahren.
 
 Öffnen Sie die URL [http://www.sogo.nu/downloads/frontends.html](http://www.sogo.nu/downloads/frontends.html) in Ihrem Browser. 
 
